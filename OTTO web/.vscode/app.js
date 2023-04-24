@@ -71,6 +71,10 @@ const products = [
         code: "gray",
         img: "./img/sun glass1.png",
       },
+      {
+        code: "white",
+        img: "./img/sun glass1.png",
+      }
      
     ],
   },
